@@ -1,0 +1,29 @@
+/* .row {
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+} */
+
+.st-container {
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 0px;
+
+    margin-right: 0% !important;
+    margin-left: 0% !important;
+    padding-right: 0% !important;
+    padding-left: 0% !important;
+    width: fit-content;
+    --bs-gutter-x: 0px !important;
+}
+
+.inline-frame {
+    display: block;
+    border: none;
+    min-height: 480px;
+    min-width: 640px;
+    margin-right: 0% !important;
+    margin-left: 0% !important;
+    padding-right: 0% !important;
+    padding-left: 0% !important;
+
+}
