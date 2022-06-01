@@ -112,11 +112,12 @@ function StreamLayout() {
           <Col className="custom-fit-col">
             <StreamContainer location="http://127.0.0.1:8080/inf/2" />
           </Col>
+
         </Row>
 
         <Row className="custom-fit-row">
           <Col className="custom-fit-col">
-            <StreamContainer location="http://192.168.0.102:5000/1" />
+            <StreamContainer location="http://127.0.0.1:8080/growth" />
           </Col>
           <Col className="custom-fit-col">
             <StreamContainer location="http://127.0.0.1:8080/bug" />
